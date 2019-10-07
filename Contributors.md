@@ -38,6 +38,7 @@
 - [Ali Daghighi](https://github.com/alidaghighi)
 - [bubz](https://github.com/debubz)
 - [ShvetaNeginhal](https://github.com/ShvetaNeginhal)
+- [divyashreej](https://github.com/divyashree15)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
 - [Manisha Tiwari](https://github.com/manishatiwari393)
 - [Android-Nougat](https://github.com/Android-Nougat)
